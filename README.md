@@ -1,1 +1,2 @@
 # heather-bio-readme
+My name is Heather Seto. I'm 16 years old and a rising senior in high school who is interested in tech. I hope to become familiar with using GitHub so that I am able to use it for many future projects. 
